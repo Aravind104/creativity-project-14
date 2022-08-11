@@ -11,4 +11,4 @@ I created this static landing page using below `tech stack`
 
 ![project-14](./assets/project-14.png)
 
-live-link : [creativity-dancing-landing-page]()
+live-link : [creativity-dancing-landing-page](https://creativity-landing-project-14.netlify.app/)
